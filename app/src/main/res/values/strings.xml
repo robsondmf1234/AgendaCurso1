@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgendaCurso1</string>
+    <string name="tituloApBar">Novo Aluno</string>
+    <string name="tituloAppBarListaAlunos">Lista de Alunos</string>
+</resources>
